@@ -1,12 +1,26 @@
-alert('Bem-vindo ao jogo do Número Secreto');
-let numeroSecreto = 29;
-console.log(numeroSecreto)
-let chute = prompt('Escolha um número entre 1 e 30');
-console.log(chute)
-console.log('Resultado da comparação:', chute == numeroSecreto);
+/*
+alert('Boas vindas ao nosso site!');
+let nome = 'Lua';
+let idade = 25;
+let numeroDeVendas = 50;
+let saldoDisponivel = 1000;
+alert('Erro! Preencha todos os campos');
+let mensagemDeErro = 'Erro! Preencha todos os campos';
+alert(mensagemDeErro);
+nome = prompt('Digite seu nome: ');
+idade = prompt('Digite sua idade: ');
 
-if (chute == numeroSecreto) {
-    alert(`Você acertou o número secreto ${numeroSecreto}.`);
-} else (
-    alert('Você errou')
-)
+if (idade >= 18) {
+    alert('Pode tirar a habilitação!')
+}
+*/
+
+dia = prompt('Hoje é qual dia da semana?');
+
+if (dia == "Sábado" || "Domingo") {
+    alert('Bom fim de semana!');
+} else {
+    alert('Boa semana!')
+}
+
+
