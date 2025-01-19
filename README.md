@@ -29,5 +29,5 @@
 
 ---
 ### Links
-
+#### 🔹 Deploy: [Acesse o jogo](https://logica-programacao-java-script-tau.vercel.app/)
 #### 🔹 Certificado: [Clique aqui](https://cursos.alura.com.br/user/joaoluizcienciacomp/course/logica-programacao-mergulhe-programacao-javascript/certificate)
